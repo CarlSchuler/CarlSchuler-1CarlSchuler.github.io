@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Carl Schuler"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/carl.jpg"
   bio    : "My awesome biography constrained to a sentence or two goes here."
   links:
     - label: "Website"
