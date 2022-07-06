@@ -8,8 +8,7 @@ tags:
   - readability
   - standard
 ---
-- label: "Microsoft Access"
-      icon: "fab fa-fw fa-github"
  - [Access example](https://support.microsoft.com/en-us/office/import-or-link-to-data-in-an-excel-workbook-a1952878-7c58-47b1-893d-e084913cc958)
       
 - [Setting up a Jekyll site with GitHub Pages](https://jekyllrb.com/docs/github-pages/)
+- [FedEx](https://fedex.com)
