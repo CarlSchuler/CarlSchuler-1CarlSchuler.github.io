@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Carl Schuler"
   avatar : "/assets/images/carl.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Tuesday, July 6th, 2022."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
