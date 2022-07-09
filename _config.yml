@@ -63,6 +63,7 @@ author:
   bio    : "Tuesday, July 6th, 2022."
   links:
     - label: "Website"
+      url:"https://github.com/CarlSchuler/CarlSchuler-CarlSchuler.github.io/wiki/Links"
       icon: "fas fa-fw fa-link"
       url: "https://"
     - label: "Twitter"
