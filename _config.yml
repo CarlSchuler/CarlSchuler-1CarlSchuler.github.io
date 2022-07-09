@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/1971.jpg"
   bio    : "Tuesday, July 6th, 2022."
   links:
-    - label: "https://github.com/CarlSchuler/CarlSchuler-CarlSchuler.github.io/wiki/Links"
+    - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://github.com/CarlSchuler/CarlSchuler-CarlSchuler.github.io/wiki/Links"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
