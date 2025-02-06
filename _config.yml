@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Carl Schuler"
-  avatar : "/assets/images/1971.jpg"
+  avatar : "jpg"
   bio    : "Tuesday, July 6th, 2022."
   links:
     - label: "Website"
